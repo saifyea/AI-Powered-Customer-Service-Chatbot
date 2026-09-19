@@ -1,38 +1,53 @@
-# 🤖 AI Customer Service Chatbot
+# 🤖 AI-Powered Customer Service Chatbot
 
-## Overview
-AI-powered customer service chatbot for small businesses.
-Built with Python, Claude AI, LangChain, and Streamlit.
+Short one-line description
 
-## Features
-- 💬 Natural language conversation
-- 🔍 RAG knowledge base
-- 📦 Product information
-- 🚚 Delivery & return info
-- ⚡ Quick action buttons
-- 🧠 Conversation memory
+[🚀 Live Demo] [📂 GitHub]
 
-## Tech Stack
-- Python 3.11
-- Anthropic Claude AI
-- LangChain + FAISS
-- Streamlit
-- HuggingFace Embeddings
+## 📸 Demo
 
-## Setup
-1. Clone the repo
-2. Install: `pip install -r requirements.txt`
-3. Add `.env` file with `ANTHROPIC_API_KEY`
-4. Run: `streamlit run app.py`
+asset![Dashboard](assets/home.png)
 
-## Live Demo
+## 🎯 Problem
 
+Small businesses receive repetitive questions about:
+- Products
+- Prices
+- Delivery
+- Returns
+- FAQs
 
-## Customization
-Edit `config.py` to customize:
-- Business name & contact
-- Products & prices
-- AI model settings
+## 💡 Solution
 
-## Developer
-**Saifuddin** — AI Integration Specialist
+This chatbot uses Claude AI + RAG to answer
+customer questions using the business's own knowledge base.
+
+## ✨ Features
+
+...
+
+## 🧠 How It Works
+
+Customer Question
+       ↓
+Query Processing
+       ↓
+RAG Retrieval
+       ↓
+Relevant Business Information
+       ↓
+Claude AI
+       ↓
+Customer Response
+
+## 🛠️ Tech Stack
+
+## 📁 Project Structure
+
+## 🚀 Local Setup
+
+## 🌐 Live Demo
+
+## 🔧 Customization
+
+## 👨‍💻 Author
